@@ -5,6 +5,7 @@
 /* Ejercicio 1 */
 Nodo* crearNodo(int valor){
     // TODO(1): usar malloc
+    Nodo* new = malloc(sizeof(Nodo));
     return NULL;
 }
 
